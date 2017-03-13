@@ -22,7 +22,7 @@ Linux Yaz Kampı 2016 Web Uygulama Güvenliği ve Güvenli Kod Geliştirme Kursu
 * Sertunç Selen(http://github.com/)
 * İsmail Kunduracıoğlu(http://github.com/)
 * Büşra Uman(http://github.com/)
-* Mevlüt Aydemir(http://github.com/)
+* Mevlüt Aydemir(http://github.com/mevoxd)
 * Taha Baş(http://github.com/)
 * Emre AKPINAR(http://github.com/)
 * Mert Gücü(http://github.com/)
